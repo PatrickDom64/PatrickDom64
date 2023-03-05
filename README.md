@@ -1,4 +1,21 @@
-### Hello everyone!!!
+### Hello everyone!!! 
+<img src="https://media.tenor.com/OTDlqAguqpEAAAAj/sonic-running.gif" width="50" height="50"/>
+
+
+I am an affectionate person, I like to always be together with my family, I have the maximum respect for my colleagues, in addition to enjoying learning and teaching others.
+
+Since I was a child I was fascinated by technology watching my father work in the IT area, learning from handling hardware to implementing software, that's why I wanted to get into this area.
+ 
+I can communicate well in English, I learned a good part of it self-taught and motivated by my passion for learning languages, a passion that aims to become a polyglot, the second language I am studying at the moment is German, which I am a very beginner and I improve English, always doing research on documentaries, news, articles, movies, series in the English language.
+
+My main experience was in the academic field, but in my internship experience, I had the privilege of improving my skills and learning technologies such as: C#, .NET, WindowsForms, SQL (T-SQL, SQL Server).
+
+- 🌱 I’m currently learning Python, C#, Javascript
+- 📫 How to reach me: patrickdomsilva@gmail.com 
+
+<div align="center">
+<img src="https://media.tenor.com/_tv1csxgAfcAAAAj/sonic-the-hedgehog.gif" width="150" height="130" align="center" />
+</div>
 
 <div align="center">
   <a href="https://github.com/PatrickDom64">
@@ -27,8 +44,6 @@
   <a href="https://www.instagram.com/patrickdom_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:patrickdomsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/patrickdomanalistadesistemas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  
 </div>
 
 
