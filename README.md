@@ -34,7 +34,7 @@ My main experience was in the academic field, but in my internship experience, I
   <img align="center" alt="pat-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="pat-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="pat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="right" alt="pat-pic" height="150" style="border-radius:50px;" src="https://pbs.twimg.com/media/FC0MaYkakAAM9Ft?format=png&name=large">
+  
 </div>
 
 ##
