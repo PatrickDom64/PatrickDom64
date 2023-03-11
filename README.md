@@ -1,12 +1,6 @@
 ### Hello everyone!!! 
-<img src="https://media.tenor.com/OTDlqAguqpEAAAAj/sonic-running.gif" width="50" height="50"/>
+<img src="https://media.tenor.com/OTDlqAguqpEAAAAj/sonic-running.gif" width="150" height="150"/>
 
-
-I am an affectionate person, I like to always be together with my family, I have the maximum respect for my colleagues, in addition to enjoying learning and teaching others.
-
-Since I was a child I was fascinated by technology watching my father work in the IT area, learning from handling hardware to implementing software, that's why I wanted to get into this area.
- 
-I can communicate well in English, I learned a good part of it self-taught and motivated by my passion for learning languages, a passion that aims to become a polyglot, the second language I am studying at the moment is German, which I am a very beginner and I improve English, always doing research on documentaries, news, articles, movies, series in the English language.
 
 My main experience was in the academic field, but in my internship experience, I had the privilege of improving my skills and learning technologies such as: C#, .NET, WindowsForms, SQL (T-SQL, SQL Server).
 
