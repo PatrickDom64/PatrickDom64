@@ -1,5 +1,5 @@
-### Hello everyone!!! 
-<img src="https://media.tenor.com/OTDlqAguqpEAAAAj/sonic-running.gif" width="150" height="150"/>
+![header](https://capsule-render.vercel.app/api?type=waving&wave&color=0D0208&height=300&section=header&&text=Patrick%20Dom&fontSize=70&animation=fadeIn&fontColor=008F11)
+
 
 
 My main experience was in the academic field, but in my internship experience, I had the privilege of improving my skills and learning technologies such as: C#, .NET, WindowsForms, SQL (T-SQL, SQL Server).
@@ -41,7 +41,8 @@ My main experience was in the academic field, but in my internship experience, I
 </div>
 
 
-
+<img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="90" height="80" align="right" />
+  
 
 <!--
 **PatrickDom64/PatrickDom64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
