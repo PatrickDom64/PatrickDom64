@@ -44,9 +44,13 @@ My main experience was in the academic field, but in my internship experience, I
   <a href="https://www.linkedin.com/in/patrickdomanalistadesistemas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-
+<div>
 <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="90" height="80" align="right" />
+</div>  
+
   
+
+![footer](https://capsule-render.vercel.app/api?type=waving&wave&color=0D0208&height=300&section=footer)
 
 <!--
 **PatrickDom64/PatrickDom64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
