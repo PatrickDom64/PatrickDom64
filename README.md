@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&wave&color=0D0208&height=300&section=header&&text=Patrick%20Dom&fontSize=70&animation=fadeIn&fontColor=008F11)
 
+<div align="center">
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=300&size=24&pause=1000&color=00FF41&background=0D020800&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Patrick+;a+just+guy+who+like+technology;i'm+basically+a+Nerd)](https://git.io/typing-svg)
+
+</div>
 
 My main experience was in the academic field, but in my internship experience, I had the privilege of improving my skills and learning technologies such as: C#, .NET, WindowsForms, SQL (T-SQL, SQL Server).
 
