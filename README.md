@@ -9,7 +9,6 @@
 My main experience was in the academic field, but in my internship experience, I had the privilege of improving my skills and learning technologies such as: C#, .NET, WindowsForms, SQL (T-SQL, SQL Server).
 
 - 🌱 I’m currently learning Python, C#, Javascript
-- 📫 How to reach me: patrickdomsilva@gmail.com 
 
 <div align="center">
 <img src="https://media.tenor.com/_tv1csxgAfcAAAAj/sonic-the-hedgehog.gif" width="150" height="130" align="center" />
