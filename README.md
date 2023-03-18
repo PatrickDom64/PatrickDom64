@@ -32,20 +32,11 @@ My main experience was in the academic field, but in my internship experience, I
   <img align="center" alt="pat-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="pat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   
-  
-  
-  
-  
-  
 </div>
   
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PatrickDom64&bg_color=000000&color=ffffff&line=003B00&point=008F11&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  
-  
-  
-##
 
 <div> 
   <a href="https://www.youtube.com/channel/UCMidr-fFALV-OuV2DewGhqA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -54,7 +45,7 @@ My main experience was in the academic field, but in my internship experience, I
   <a href="https://www.linkedin.com/in/patrickdomanalistadesistemas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div>
+<div style="display: inline_block"><br>
 <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="100" height="90" align="right" />
   
 <!-- <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="100" height="90" align="center" /> -->
