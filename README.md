@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=300&size=24&pause=1000&color=00FF41&background=0D020800&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Patrick+;a+just+guy+who+like+technology;i'm+basically+a+Nerd)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&weight=300&size=24&pause=1000&color=00FF41&background=0D0208&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Patrick+;a+just+guy+who+like+technology;i'm+basically+a+Nerd)](https://git.io/typing-svg)
 
 </div>
 
@@ -40,7 +40,7 @@ My main experience was in the academic field, but in my internship experience, I
 </div>
   
   
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PatrickDom64&bg_color=000000&color=ffffff&line=03fcf8&point=0c08f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PatrickDom64&bg_color=000000&color=ffffff&line=003B00&point=008F11&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
   
   
