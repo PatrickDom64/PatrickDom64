@@ -32,8 +32,19 @@ My main experience was in the academic field, but in my internship experience, I
   <img align="center" alt="pat-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="pat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   
+  
+  
+  
+  
+  
 </div>
+  
+  
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PatrickDom64&bg_color=000000&color=ffffff&line=03fcf8&point=0c08f7&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+  
+  
+  
 ##
 
 <div> 
