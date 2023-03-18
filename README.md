@@ -55,7 +55,11 @@ My main experience was in the academic field, but in my internship experience, I
 </div>
 
 <div>
-<img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="90" height="80" align="right" />
+<img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="100" height="90" align="right" />
+  
+<!-- <img src="https://media.tenor.com/itjFesV8_RUAAAAi/soulja-boy-pepe.gif" width="100" height="90" align="center" /> -->
+  
+<img src="https://media.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif" width="100" height="90" align="left" />
 </div>  
 
   
