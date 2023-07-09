@@ -34,9 +34,6 @@ My main experience was in the academic field, but in my internship experience, I
   
 </div>
   
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=PatrickDom64&bg_color=000000&color=ffffff&line=003B00&point=008F11&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <div> 
   <a href="https://www.youtube.com/channel/UCMidr-fFALV-OuV2DewGhqA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
