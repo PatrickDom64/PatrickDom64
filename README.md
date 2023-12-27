@@ -20,7 +20,7 @@ My main experience was in the academic field, but in my internship experience, I
 </div>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=PatrickDom64&theme=dark&hide_border=false)<br align="center"/>
+
 
 
 
